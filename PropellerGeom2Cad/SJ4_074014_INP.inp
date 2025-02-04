@@ -1,0 +1,21 @@
+load SJ4_074014.dat
+
+
+gdes
+tset 0.074000 
+
+eXec
+gset
+
+gdes
+tgap 0.025900 
+
+eXec
+gset
+
+
+NAME 21_SJ4_074014_Based_007258
+
+SAVE Airfoil\21_SJ4_074014_Based_007258.dat
+
+quit

@@ -1,0 +1,20 @@
+load naca4412.dat
+
+ppar
+N
+200
+
+
+gdes
+tset 0.073666 0.097081
+high 0.173579 0.309167
+lera 0.809938
+
+eXec
+gset
+
+
+NAME case250
+
+SAVE ModifiedAirfoil\case250.dat
+quit
