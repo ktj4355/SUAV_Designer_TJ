@@ -86,11 +86,7 @@ plot3(TE_line2(:,1), TE_line2(:,2),TE_line2(:,3),'r-')
 plot3(LE_line(:,1), LE_line(:,2),LE_line(:,3),'r-')
 view(-45,-45)
 axis equal
-%% Leading Edge Curve
 
-%% Tale Edge Curve
-
-%% 1/4 Curve
 
 %% Output CatiaMacro File
 %prop
